@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html className="h-full bg-gray-100">
-      <body className="h-full">
+      <body className="h-full" suppressHydrationWarning={true}>
         <AuthProvider>
           <div className="min-h-full">
             <Navbar />
