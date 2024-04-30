@@ -8,6 +8,7 @@ interface NFT {
   owner: string;
   creator: string;
   id: string;
+  price: string;
 }
 
 interface NFTState {
@@ -24,6 +25,7 @@ const initialState: NFTState = {
     owner: "",
     creator: "",
     id: "",
+    price: "",
   },
 };
 

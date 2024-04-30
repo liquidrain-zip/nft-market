@@ -5,7 +5,8 @@
     "image_url": "https://picsum.photos/id/237/200",
     "owner": "0xAbCdEf0123456789",
     "creator": "DigitalArtist123",
-    "id": "1"
+    "id": "1",
+    "price": "0.46346"
   },
   {
     "name": "Fantasy Landscape 2",
@@ -13,7 +14,8 @@
     "image_url": "https://picsum.photos/id/44/200",
     "owner": "0xFeDcBa9876543210",
     "creator": "FantasyArtMaster",
-    "id": "2"
+    "id": "2",
+    "price": "0.121214"
   },
   {
     "name": "Space Exploration 3",
@@ -21,7 +23,8 @@
     "image_url": "https://picsum.photos/id/66/200",
     "owner": "0x1234567890AbCdEf",
     "creator": "SpaceExplorer99",
-    "id": "3"
+    "id": "3",
+    "price": "0.123212"
   },
   {
     "name": "Abstract Portrait 4",
@@ -29,7 +32,8 @@
     "image_url": "https://picsum.photos/id/123/200",
     "owner": "0xFaCeDaD123456789",
     "creator": "AbstractPortraitArtist",
-    "id": "4"
+    "id": "4",
+    "price": "0.675645"
   },
   {
     "name": "Digital Artwork 5",
@@ -37,7 +41,8 @@
     "image_url": "https://picsum.photos/id/32/200",
     "owner": "0xAbCdEf0123456789",
     "creator": "DigitalArtist123",
-    "id": "5"
+    "id": "5",
+    "price": "0.001234"
   },
   {
     "name": "Fantasy Landscape 6",
@@ -45,7 +50,8 @@
     "image_url": "https://picsum.photos/id/5/200",
     "owner": "0xFeDcBa9876543210",
     "creator": "FantasyArtMaster",
-    "id": "6"
+    "id": "6",
+    "price": "0.00011"
   },
   {
     "name": "Space Exploration 7",
@@ -53,7 +59,8 @@
     "image_url": "https://picsum.photos/id/65/200",
     "owner": "0x1234567890AbCdEf",
     "creator": "SpaceExplorer99",
-    "id": "7"
+    "id": "7",
+    "price": "0.00312"
   },
   {
     "name": "Abstract Portrait 8",
@@ -61,7 +68,8 @@
     "image_url": "https://picsum.photos/id/98/200",
     "owner": "0xFaCeDaD123456789",
     "creator": "AbstractPortraitArtist",
-    "id": "8"
+    "id": "8",
+    "price": "0.71237"
   },
   {
     "name": "Digital Artwork 9",
@@ -69,7 +77,8 @@
     "image_url": "https://picsum.photos/id/435/200",
     "owner": "0xAbCdEf0123456789",
     "creator": "DigitalArtist123",
-    "id": "9"
+    "id": "9",
+    "price": "0.47575"
   },
   {
     "name": "Fantasy Landscape 10",
@@ -77,7 +86,8 @@
     "image_url": "https://picsum.photos/id/234/200",
     "owner": "0xFeDcBa9876543210",
     "creator": "FantasyArtMaster",
-    "id": "10"
+    "id": "10",
+    "price": "0.26626"
   },
   {
     "name": "Space Exploration 11",
@@ -85,7 +95,8 @@
     "image_url": "https://picsum.photos/id/74/200",
     "owner": "0x1234567890AbCdEf",
     "creator": "SpaceExplorer99",
-    "id": "11"
+    "id": "11",
+    "price": "0.00123"
   },
   {
     "name": "Abstract Portrait 12",
@@ -93,7 +104,8 @@
     "image_url": "https://picsum.photos/id/15/200",
     "owner": "0xFaCeDaD123456789",
     "creator": "AbstractPortraitArtist",
-    "id": "12"
+    "id": "12",
+    "price": "0.11111"
   },
   {
     "name": "Digital Artwork 13",
@@ -101,7 +113,8 @@
     "image_url": "https://picsum.photos/id/5/200",
     "owner": "0xAbCdEf0123456789",
     "creator": "DigitalArtist123",
-    "id": "13"
+    "id": "13",
+    "price": "0.22222"
   },
   {
     "name": "Fantasy Landscape 14",
@@ -109,7 +122,8 @@
     "image_url": "https://picsum.photos/id/76/200",
     "owner": "0xFeDcBa9876543210",
     "creator": "FantasyArtMaster",
-    "id": "14"
+    "id": "14",
+    "price": "0.33333"
   },
   {
     "name": "Space Exploration 15",
@@ -117,7 +131,8 @@
     "image_url": "https://picsum.photos/id/83/200",
     "owner": "0x1234567890AbCdEf",
     "creator": "SpaceExplorer99",
-    "id": "15"
+    "id": "15",
+    "price": "0.44444"
   },
   {
     "name": "Abstract Portrait 16",
@@ -125,7 +140,8 @@
     "image_url": "https://picsum.photos/id/37/200",
     "owner": "0xFaCeDaD123456789",
     "creator": "AbstractPortraitArtist",
-    "id": "16"
+    "id": "16",
+    "price": "0.55555"
   },
   {
     "name": "Digital Artwork 17",
@@ -133,7 +149,8 @@
     "image_url": "https://picsum.photos/id/51/200",
     "owner": "0xAbCdEf0123456789",
     "creator": "DigitalArtist123",
-    "id": "17"
+    "id": "17",
+    "price": "0.66666"
   },
   {
     "name": "Fantasy Landscape 18",
@@ -141,7 +158,8 @@
     "image_url": "https://picsum.photos/id/91/200",
     "owner": "0xFeDcBa9876543210",
     "creator": "FantasyArtMaster",
-    "id": "18"
+    "id": "18",
+    "price": "0.77777"
   },
   {
     "name": "Space Exploration 19",
@@ -149,7 +167,8 @@
     "image_url": "https://picsum.photos/id/88/200",
     "owner": "0x1234567890AbCdEf",
     "creator": "SpaceExplorer99",
-    "id": "19"
+    "id": "19",
+    "price": "0.88888"
   },
   {
     "name": "Abstract Portrait 20",
@@ -157,6 +176,7 @@
     "image_url": "https://picsum.photos/id/66/200",
     "owner": "0xFaCeDaD123456789",
     "creator": "AbstractPortraitArtist",
-    "id": "20"
+    "id": "20",
+    "price": "0.99999"
   }
 ]
