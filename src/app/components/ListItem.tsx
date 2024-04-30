@@ -1,9 +1,9 @@
 import { MouseEvent } from "react";
 
-export default function ListItem({ nft }: any) {
+export default function ListItem({ nft, handleSelect }: any) {
   const handleItemClick = (e: MouseEvent): void => {
     e.preventDefault();
-    console.log(nft);
+    handleSelect(nft);
   };
   return (
     <li
