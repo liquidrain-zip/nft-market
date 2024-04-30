@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Digital Artwork 1",
+    "description": "Abstract digital artwork with vibrant colors.",
+    "image_url": "https://picsum.photos/id/237/200",
+    "owner": "0xAbCdEf0123456789",
+    "creator": "DigitalArtist123"
+  },
+  {
+    "name": "Fantasy Landscape 2",
+    "description": "Imaginary landscape with mythical creatures.",
+    "image_url": "https://picsum.photos/id/44/200",
+    "owner": "0xFeDcBa9876543210",
+    "creator": "FantasyArtMaster"
+  },
+  {
+    "name": "Space Exploration 3",
+    "description": "Futuristic space exploration scene.",
+    "image_url": "https://picsum.photos/id/66/200",
+    "owner": "0x1234567890AbCdEf",
+    "creator": "SpaceExplorer99"
+  },
+  {
+    "name": "Abstract Portrait 4",
+    "description": "Digital portrait with geometric patterns.",
+    "image_url": "https://picsum.photos/id/123/200",
+    "owner": "0xFaCeDaD123456789",
+    "creator": "AbstractPortraitArtist"
+  },
+  {
+    "name": "Digital Artwork 5",
+    "description": "Abstract digital artwork with vibrant colors.",
+    "image_url": "https://picsum.photos/id/32/200",
+    "owner": "0xAbCdEf0123456789",
+    "creator": "DigitalArtist123"
+  },
+  {
+    "name": "Fantasy Landscape 6",
+    "description": "Imaginary landscape with mythical creatures.",
+    "image_url": "https://picsum.photos/id/5/200",
+    "owner": "0xFeDcBa9876543210",
+    "creator": "FantasyArtMaster"
+  },
+  {
+    "name": "Space Exploration 7",
+    "description": "Futuristic space exploration scene.",
+    "image_url": "https://picsum.photos/id/65/200",
+    "owner": "0x1234567890AbCdEf",
+    "creator": "SpaceExplorer99"
+  },
+  {
+    "name": "Abstract Portrait 8",
+    "description": "Digital portrait with geometric patterns.",
+    "image_url": "https://picsum.photos/id/98/200",
+    "owner": "0xFaCeDaD123456789",
+    "creator": "AbstractPortraitArtist"
+  },
+  {
+    "name": "Digital Artwork 9",
+    "description": "Abstract digital artwork with vibrant colors.",
+    "image_url": "https://picsum.photos/id/435/200",
+    "owner": "0xAbCdEf0123456789",
+    "creator": "DigitalArtist123"
+  },
+  {
+    "name": "Fantasy Landscape 10",
+    "description": "Imaginary landscape with mythical creatures.",
+    "image_url": "https://picsum.photos/id/234/200",
+    "owner": "0xFeDcBa9876543210",
+    "creator": "FantasyArtMaster"
+  },
+  {
+    "name": "Space Exploration 11",
+    "description": "Futuristic space exploration scene.",
+    "image_url": "https://picsum.photos/id/74/200",
+    "owner": "0x1234567890AbCdEf",
+    "creator": "SpaceExplorer99"
+  },
+  {
+    "name": "Abstract Portrait 12",
+    "description": "Digital portrait with geometric patterns.",
+    "image_url": "https://picsum.photos/id/15/200",
+    "owner": "0xFaCeDaD123456789",
+    "creator": "AbstractPortraitArtist"
+  },
+  {
+    "name": "Digital Artwork 13",
+    "description": "Abstract digital artwork with vibrant colors.",
+    "image_url": "https://picsum.photos/id/5/200",
+    "owner": "0xAbCdEf0123456789",
+    "creator": "DigitalArtist123"
+  },
+  {
+    "name": "Fantasy Landscape 14",
+    "description": "Imaginary landscape with mythical creatures.",
+    "image_url": "https://picsum.photos/id/76/200",
+    "owner": "0xFeDcBa9876543210",
+    "creator": "FantasyArtMaster"
+  },
+  {
+    "name": "Space Exploration 15",
+    "description": "Futuristic space exploration scene.",
+    "image_url": "https://picsum.photos/id/83/200",
+    "owner": "0x1234567890AbCdEf",
+    "creator": "SpaceExplorer99"
+  },
+  {
+    "name": "Abstract Portrait 16",
+    "description": "Digital portrait with geometric patterns.",
+    "image_url": "https://picsum.photos/id/37/200",
+    "owner": "0xFaCeDaD123456789",
+    "creator": "AbstractPortraitArtist"
+  },
+  {
+    "name": "Digital Artwork 17",
+    "description": "Abstract digital artwork with vibrant colors.",
+    "image_url": "https://picsum.photos/id/51/200",
+    "owner": "0xAbCdEf0123456789",
+    "creator": "DigitalArtist123"
+  },
+  {
+    "name": "Fantasy Landscape 18",
+    "description": "Imaginary landscape with mythical creatures.",
+    "image_url": "https://picsum.photos/id/91/200",
+    "owner": "0xFeDcBa9876543210",
+    "creator": "FantasyArtMaster"
+  },
+  {
+    "name": "Space Exploration 19",
+    "description": "Futuristic space exploration scene.",
+    "image_url": "https://picsum.photos/id/88/200",
+    "owner": "0x1234567890AbCdEf",
+    "creator": "SpaceExplorer99"
+  },
+  {
+    "name": "Abstract Portrait 20",
+    "description": "Digital portrait with geometric patterns.",
+    "image_url": "https://picsum.photos/id/66/200",
+    "owner": "0xFaCeDaD123456789",
+    "creator": "AbstractPortraitArtist"
+  }
+]

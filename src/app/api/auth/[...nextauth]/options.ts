@@ -23,8 +23,14 @@ export const options: NextAuthOptions = {
         },
       },
       async authorize(credentials) {
-        // retrieve user data here
-        const user = { id: "33", name: "test", password: "123" };
+        // mock user
+        const user = {
+          id: "33",
+          name: "test",
+          password: "123",
+          image:
+            "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        };
 
         if (
           credentials?.username === user.name &&
